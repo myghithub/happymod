@@ -1,0 +1,47 @@
+{
+  "pc": "com.kangriez.New_HappyMod_Happy_Apps_Walkthrough_2021",
+  "kang_zayvius": [      
+     {
+      "id": "1",
+      "tittle": "Menggunakan HappyMod",
+      "link_html": "https://raw.githubusercontent.com/kangzay/hs/main/guide_hppymod/a.html",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj9RIrsi1m8v8SRcuzA7N-05-GnoGT2j_fcg&usqp=CAU"
+     },
+     {
+      "id": "2",
+      "tittle": "Cara Download",
+      "link_html": "https://raw.githubusercontent.com/kangzay/hs/main/guide_hppymod/b.html",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj9RIrsi1m8v8SRcuzA7N-05-GnoGT2j_fcg&usqp=CAU"
+     },
+    {
+      "id": "3",
+      "tittle": "Cara Menginstal",
+      "link_html": "https://raw.githubusercontent.com/kangzay/hs/main/guide_hppymod/c.html",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj9RIrsi1m8v8SRcuzA7N-05-GnoGT2j_fcg&usqp=CAU"
+     },
+    {
+      "id": "4",
+      "tittle": "Cara Menggunakan Part 2",
+      "link_html": "https://raw.githubusercontent.com/kangzay/hs/main/guide_hppymod/d.html",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj9RIrsi1m8v8SRcuzA7N-05-GnoGT2j_fcg&usqp=CAU"
+     },
+     {
+      "id": "5",
+      "tittle": "Fitur Aplikasi",
+      "link_html": "https://raw.githubusercontent.com/kangzay/hs/main/guide_hppymod/e.html",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj9RIrsi1m8v8SRcuzA7N-05-GnoGT2j_fcg&usqp=CAU"
+     },
+     {
+      "id": "6",
+      "tittle": "Mengatasi Error",
+      "link_html": "https://raw.githubusercontent.com/kangzay/hs/main/guide_hppymod/f.html",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj9RIrsi1m8v8SRcuzA7N-05-GnoGT2j_fcg&usqp=CAU"
+     },
+     {
+      "id": "7",
+      "tittle": "Tidak Bisa Diinstall",
+      "link_html": "https://raw.githubusercontent.com/kangzay/hs/main/guide_hppymod/g.html",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj9RIrsi1m8v8SRcuzA7N-05-GnoGT2j_fcg&usqp=CAU"
+     }
+  ]
+}
